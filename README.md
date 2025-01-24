@@ -142,3 +142,6 @@ it's a Next.js-based web application designed to showcase and explore a collecti
 - Implement search and filter functionality for items.
 - Enhance the design with animations and additional interactive elements.
 
+- ##Go to Live:
+ https://next-js-comic-app.vercel.app/
+
