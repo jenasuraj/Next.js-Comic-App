@@ -62,7 +62,7 @@ it's a Next.js-based web application designed to showcase and explore a collecti
 
 2. Navigate to the project directory:
    ```bash
-   cd anime-explorer
+   cd comic-app
    ```
 
 3. Install dependencies:
